@@ -6,6 +6,7 @@
 <?php
 echo "Hello World!";
 echo "lazy";
+echo "ez"
 ?>
 
 </body>
