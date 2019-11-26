@@ -6,6 +6,7 @@
 <?php
 echo "Hello World!";
 echo "lazy";
+echo "衝突1";
 ?>
 
 </body>
