@@ -1,4 +1,4 @@
 
 <?php
-	echo "version";
+	echo "version1222";
 ?>
